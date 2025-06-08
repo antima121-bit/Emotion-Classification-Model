@@ -10,7 +10,7 @@
 ## 🎥 Video Demonstration
 
 Watch a detailed walkthrough of the project:
-[![Project Demo](https://img.shields.io/badge/Watch-Demo-red)](YOUR_LOOM_VIDEO_URL)
+[![Project Demo](https://img.shields.io/badge/Watch-Demo-red)](https://www.loom.com/share/48f0331b71f7416581624473062d0732?sid=4faf3e6d-7149-434d-90f2-d61cdf3beb8a)
 
 The video covers:
 - Project overview and features
