@@ -152,6 +152,13 @@ GoEmotions-Text-Emotion-Classification/
 - **Validation**: Keyword-based validation system
 - **Output**: Probability distribution across emotion categories
 
+- ![image](https://github.com/user-attachments/assets/6ce837e5-59ca-48e5-a6fa-1b4ae5b54d42)
+- ![image](https://github.com/user-attachments/assets/d75a443c-64e9-4616-917c-15993b8b4a88)
+- ![image](https://github.com/user-attachments/assets/209e4130-9baf-4fa2-8a85-fe48108fb3a1)
+- ![image](https://github.com/user-attachments/assets/088fcb21-f609-4ce2-9144-1017d842c23f)
+
+
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
